@@ -1,4 +1,0 @@
-git rm archivo.txt
-git status
-
-git mv archivo1.txt archivo.txt
